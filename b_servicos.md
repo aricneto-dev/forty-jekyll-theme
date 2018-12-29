@@ -1,15 +1,15 @@
 ---
-title: Projetos
 layout: landing
-description: 'Veja alguns de nossos projetos'
-image: assets/images/simone3.jpg
+title: Serviços
+description: Conheça as nossas áreas de atuação
+image: assets/images/pic_blueprint.jpg
 nav-menu: true
 ---
 
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
+
 <section id="one">
 	<div class="inner">
 		<header class="major">
@@ -23,16 +23,16 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/servico1.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Design de Interiores</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Conciliar conforto, praticidade e beleza. Harmonizar móveis, objetos e acessórios. Planejar cores, acabamentos e iluminação. Nosso escritório visa proporcionar tudo isto aliado às aspirações, necessidades, disponibilidade financeira e principalmente aos <em>sonhos</em> do cliente. Neste intuito, buscamos concretizar o seu sonho, projetando-o ao seu estilo.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Peça um orçamento</a></li>
 				</ul>
 			</div>
 		</div>

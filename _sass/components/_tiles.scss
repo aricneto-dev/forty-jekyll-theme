@@ -34,7 +34,7 @@
 			min-height: 23em;
 			overflow: hidden;
 			position: relative;
-			width: 40%;
+			width: 35%;
 
 			.image {
 				display: none;
@@ -111,6 +111,15 @@
 				&:before {
 					background-color: _palette(accent1);
 				}
+				h3 {
+					color: #f1f1f1;
+				};
+				h3::after {
+					background-color: #f1f1f1;
+				}
+				p {
+					color: #d3d3d3
+				};
 			}
 
 			&:nth-child(6n - 4) {
