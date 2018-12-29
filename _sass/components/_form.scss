@@ -79,7 +79,7 @@
 		@include vendor('appearance', 'none');
 		background: _palette(form-bg);
 		border: solid #54544c 2px;
-		border-radius: 5px;
+		border-radius: 3px;
 		color: inherit;
 		display: block;
 		outline: 0;
@@ -103,7 +103,7 @@
 		position: relative;
 
 		&:before {
-			color: _palette(border);
+			color: _palette(bg-alt);
 			content: '\f078';
 			display: block;
 			height: _size(element-height);

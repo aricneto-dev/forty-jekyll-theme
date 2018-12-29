@@ -2,7 +2,7 @@
 layout: landing
 title: Projetos
 description: 'Veja alguns de nossos projetos'
-image: assets/images/projetos/proj_13.jpg
+image: assets/images/projetos/proj_01.jpg
 nav-menu: true
 ---
 

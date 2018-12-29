@@ -138,6 +138,15 @@
 				&:before {
 					background-color: _palette(accent4);
 				}
+				h3 {
+					color: #f1f1f1;
+				};
+				h3::after {
+					background-color: #f1f1f1;
+				}
+				p {
+					color: #d3d3d3
+				};
 			}
 
 			&:nth-child(6n - 1) {
