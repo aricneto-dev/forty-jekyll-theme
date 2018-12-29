@@ -11,7 +11,7 @@ city: Casa Forte, Recife
 state: PE
 zip_code: 52061-050
 country: Brasil
-phone: (81) 99126-6507<br/>(81) 99519-3070
+phone: (81) 99126-6507
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"

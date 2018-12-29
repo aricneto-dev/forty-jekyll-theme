@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre
-description: A 20 anos no mercado,<br /> Mais de 300 clientes satisfeitos
+description: A 25 anos no mercado,<br /> Mais de 300 clientes satisfeitos
 nav-menu: true
 ---
 
@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<p>O escritório C4 Arquitetura atua a mais de 20 anos no mercado de Recife, sendo fundado pela arquiteta Cláudia Capuano, formada em arquitetura e urbanismo pela Universidade Federal de Pernambuco em 1994, com MBA em Gestão de Projetos em Arquitetura e especialização em Interiores, Acessibilidade e Iluminação.</p>
+<p>O escritório C4 Arquitetura atua a mais de 25 anos no mercado de Recife, sendo fundado pela arquiteta Cláudia Capuano, formada em arquitetura e urbanismo pela Universidade Federal de Pernambuco em 1994, com MBA em Gestão de Projetos em Arquitetura e especialização em Interiores, Acessibilidade e Iluminação.</p>
 <div class="row">
 	<div class="4u 12u$(small)">
 		<span class="image fit"><img src="assets/images/claudia.jpg" alt="" /></span>
@@ -29,16 +29,16 @@ nav-menu: true
 	<div class="4u 12u$(medium)">
 		<center><span class="icon fa-flag fa-2x" style="color: #3c3c3c"/></center>
 		<center><h3>Missão</h3></center>
-		<p>Entender e captar o pensamento e o sentimento do nosso cliente, acolher suas aspirações e costumes tornando-os eficientes, aconchegantes, criativos e elegantes.</p>
+		<p>Transformar metros quadrados em espaços criativos e aconchegantes.</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<center><span class="icon fa-eye fa-2x" style="color: #3c3c3c"/></center>
 		<center><h3>Visão</h3></center>
-		<p>Visamos ser um escritório de arquitetura reconhecido pela eficiência nos projetos e pelos princípios da ética e da humanização.</p>
+		<p>Ser uma plataforma de conhecimento e inspiração na área de arquitetura de interiores.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<center><span class="icon fa-heart fa-2x" style="color: #3c3c3c"/></center>
 		<center><h3>Valores</h3></center>
-		<p>Valorizamos um trabalho pautado na ética e responsabilidade, atendendo a rigorosos critérios técnicos e legais, sem perder o toque pessoal indispensável ao atendimento da individualidade de cada cliente.</p>
+		<p>Ética, técnica, atenção aos detalhes e respeito ao cliente.</p>
 	</div>
 </div>
