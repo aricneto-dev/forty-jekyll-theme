@@ -13,7 +13,7 @@
 
 	#header {
 		@include vendor('display', 'flex');
-		background-color: _palette(bg-alt);
+		background-color: white;
 		box-shadow: 0 0 0.25em 0 rgba(0,0,0,0.15);
 		cursor: default;
 		font-weight: _font(weight-bold);
@@ -142,25 +142,25 @@
 			position: absolute;
 
 			&.style1 { 
-				.logo { strong { color: _palette(accent1); } }
+				.logo { strong { color: white; } }
 			}
 			&.style2 { 
-				.logo { strong { color: _palette(accent2); } }
+				.logo { strong { color: white; } }
 			}
 			&.style3 { 
-				.logo { strong { color: _palette(accent3); } }
+				.logo { strong { color: white; } }
 			}
 			&.style4 { 
-				.logo { strong { color: _palette(accent4); } }
+				.logo { strong { color: white; } }
 			}
 			&.style5 { 
-				.logo { strong { color: _palette(accent5); } }
+				.logo { strong { color: white; } }
 			}
 			&.style6 { 
-				.logo { strong { color: _palette(accent6); } }
+				.logo { strong { color: white; } }
 			}
 			&.stylepage { 
-				.logo { strong { color: _palette(accent6); } }
+				.logo { strong { color: white; } }
 			}
 		}
 

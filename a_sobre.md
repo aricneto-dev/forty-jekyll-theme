@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: Sobre
 description: A 25 anos no mercado,<br /> Mais de 300 clientes satisfeitos
 nav-menu: true
@@ -11,10 +11,7 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>Sobre a C4 Arquitetura</h1>
-		</header>
-
+		
 <!-- Content -->
 <p>O escritório C4 Arquitetura atua a mais de 25 anos no mercado de Recife, sendo fundado pela arquiteta Cláudia Capuano, formada em arquitetura e urbanismo pela Universidade Federal de Pernambuco em 1994, com MBA em Gestão de Projetos em Arquitetura e especialização em Interiores, Acessibilidade e Iluminação.</p>
 <div class="row">
