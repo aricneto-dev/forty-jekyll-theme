@@ -1,6 +1,8 @@
 ---
 layout: page
-title: Elements
+title: Sobre
+description: 20 anos no mercado,<br /> Mais de 300 clientes satisfeitos
+image: assets/images/temp_1.jpg
 nav-menu: true
 ---
 

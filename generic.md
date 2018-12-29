@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Serviços
+description: Conheça as nossas áreas de atuação
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
