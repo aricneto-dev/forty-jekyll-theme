@@ -2,6 +2,7 @@
 layout: landing
 title: Sobre
 description: A 25 anos no mercado,<br /> Mais de 300 clientes satisfeitos
+permalink: sobre
 nav-menu: true
 ---
 
