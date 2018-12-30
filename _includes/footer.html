@@ -76,36 +76,60 @@
 <!-- Footer -->
 	<footer id="footer" style="background-color: #54544c">
 		<div class="inner">
-			<ul class="icons">
+			<ul class="icons" style="font-size: 0.5em">
 				{% if site.twitter_url %}
-				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+				<li><a href="{{ site.twitter_url }}" class="fab fa-twitter " target="_blank"></a></li>
 				{% endif %}
 				{% if site.googleplus_url %}
-				<li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
+				<li><a href="{{ site.googleplus_url }}" class="fab fa-google-plus " target="_blank"></a></li>
 				{% endif %}
 				{% if site.facebook_url %}
-				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+				<li>
+					<span class="fa-stack fa-2x">
+					<i class="fas fa-square fa-stack-2x" style="color: #3b3b35"></i>
+					<a href="{{ site.facebook_url }}" class="fab fa-facebook-f fa-stack-1x fa-inverse" style="color: #ffffff"></a>
+				  	</span>
+				</li>
+				{% endif %}
+				{% if site.youtube_url %}
+				<li><span class="fa-stack fa-2x">
+					<i class="fas fa-square fa-stack-2x" style="color: #3b3b35"></i>
+					<a href="{{ site.youtube_url }}" class="fab fa-youtube fa-stack-1x fa-inverse" style="color: #ffffff"></a>
+					</span>
+				</li>
+				{% endif %}
+				{% if site.wordpress_url %}
+				<li><span class="fa-stack fa-2x">
+					<i class="fas fa-square fa-stack-2x" style="color: #3b3b35"></i>
+					<a href="{{ site.wordpress_url }}" class="fab fa-wordpress-simple fa-stack-1x fa-inverse" style="color: #ffffff"></a>
+					</span>
+				</li>
 				{% endif %}
 				{% if site.instagram_url %}
-				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+				<li>
+					<span class="fa-stack fa-2x">
+					<i class="fas fa-square fa-stack-2x" style="color: #3b3b35"></i>
+					<a href="{{ site.instagram_url }}" class="fab fa-instagram fa-stack-1x fa-inverse" style="color: #ffffff"></a>
+					</span>
+				</li>
 				{% endif %}
 				{% if site.pinterest_url %}
-				<li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
+				<li><a href="{{ site.pinterest_url }}" class="fab fa-pinterest " target="_blank"></a></li>
 				{% endif %}
 				{% if site.500px_url %}
-				<li><a href="{{ site.500px_url }}" class="icon alt fa-500px" target="_blank"><span class="label">500px</span></a></li>
+				<li><a href="{{ site.500px_url }}" class="fab fa-500px " target="_blank"></a></li>
 				{% endif %}
 				{% if site.gitlab_url %}
-				<li><a href="{{ site.gitlab_url }}" class="icon alt fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
+				<li><a href="{{ site.gitlab_url }}" class="fab fa-gitlab " target="_blank"></a></li>
 				{% endif %}
 				{% if site.github_url %}
-				<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+				<li><a href="{{ site.github_url }}" class="fab fa-github " target="_blank"></a></li>
 				{% endif %}
 				{% if site.slack_url %}
-				<li><a href="{{ site.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
+				<li><a href="{{ site.slack_url }}" class="fab fa-slack " target="_blank"></a></li>
 				{% endif %}
 				{% if site.linkedin_url %}
-				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+				<li><a href="{{ site.linkedin_url }}" class="fab fa-linkedin " target="_blank"></a></li>
 				{% endif %}
 			</ul>
 			<ul class="copyright">

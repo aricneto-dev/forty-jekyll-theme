@@ -25,17 +25,17 @@ nav-menu: true
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<center><span class="icon fa-flag fa-2x" style="color: #3c3c3c"/></center>
+		<center><span class="far fa-flag fa-2x" style="color: #3c3c3c"/></center>
 		<center><h3>Missão</h3></center>
 		<p>Transformar metros quadrados em espaços criativos e aconchegantes.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<center><span class="icon fa-eye fa-2x" style="color: #3c3c3c"/></center>
+		<center><span class="far fa-eye fa-2x" style="color: #3c3c3c"/></center>
 		<center><h3>Visão</h3></center>
 		<p>Ser uma plataforma de conhecimento e inspiração na área de arquitetura de interiores.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<center><span class="icon fa-heart fa-2x" style="color: #3c3c3c"/></center>
+		<center><span class="far fa-heart fa-2x" style="color: #3c3c3c"/></center>
 		<center><h3>Valores</h3></center>
 		<p>Ética, técnica, atenção aos detalhes e respeito ao cliente.</p>
 	</div>
