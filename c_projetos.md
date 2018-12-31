@@ -3,7 +3,7 @@ layout: landing
 title: Projetos
 description: 'Veja alguns de nossos projetos'
 image: assets/images/projetos/proj_01.jpg
-permalink: projetos
+permalink: projetos.html
 nav-menu: true
 ---
 

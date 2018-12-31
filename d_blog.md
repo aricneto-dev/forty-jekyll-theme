@@ -1,8 +1,8 @@
 ---
 layout: landing
 title: Blog
-description: Conheça nosso blog
-permalink: red_blog
+description: Dicas de arquitetura e decoração
+permalink: red_blog.html
 nav-menu: true
 ---
 <!-- Main -->

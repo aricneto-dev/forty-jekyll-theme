@@ -1,9 +1,9 @@
 # site settings
 title: C4 Arquitetura
 subtitle: por Cláudia Capuano
-email: aricneto@gmail.com
-description: Um lar deve ter a cara do seu dono,<br /> o seu não deve ser diferente.
-baseurl: "" # the subpath of your site, e.g. /blog
+email: claudia@c4arquitetura.com
+description: Transformando metros quadrados <br />em espaços criativos e aconchegantes
+baseurl: # the subpath of your site, e.g. /blog
 url: www.c4arquitetura.com
 author:
 street_address: Rua Marechal Rondon, nº146

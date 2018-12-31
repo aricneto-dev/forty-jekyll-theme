@@ -3,7 +3,7 @@ layout: landing
 title: Serviços
 description: Conheça as nossas áreas de atuação
 image: assets/images/pic_blueprint.jpg
-permalink: servicos
+permalink: servicos.html
 nav-menu: true
 ---
 
